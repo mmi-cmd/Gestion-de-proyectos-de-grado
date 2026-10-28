@@ -1,6 +1,6 @@
 # SGTG - Scripts de la base de datos
 
-Esquema `academico`. Ejecutar en pgAdmin (Query Tool, F5).
+Esquema `academico`. 
 
 
 | Archivo | Contenido |
