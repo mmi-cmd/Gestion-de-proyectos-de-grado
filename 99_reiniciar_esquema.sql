@@ -1,0 +1,2 @@
+-- SGTG - Reinicio del esquema. BORRA TODOS LOS DATOS. Quitar el comentario de la línea para activarlo
+-- DROP SCHEMA IF EXISTS academico CASCADE;

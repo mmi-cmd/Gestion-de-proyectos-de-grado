@@ -1,0 +1,5 @@
+-- SGTG - Esquema
+
+BEGIN;
+CREATE SCHEMA IF NOT EXISTS academico;
+COMMIT;
