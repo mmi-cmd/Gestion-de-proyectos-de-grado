@@ -1,5 +1,4 @@
--- SGTG - Instalación completa (00 a 04) en una sola transacción. Ejecutar con F5 en pgAdmin
--- Generado a partir de 00_esquema.sql, 01_tablas/*.sql, 02, 03 y 04; no ejecutar junto con ellos
+
 
 BEGIN;
 
